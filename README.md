@@ -6,7 +6,16 @@
                              to help anyone and everyone to make better data driven decisions.       
 ---
 ## My languages
-I have experience in 
+I have experience in a number of programming languages:\
+HTML ![Static Badge](https://img.shields.io/badge/HTML-orange)\
+CSS ![Static Badge](https://img.shields.io/badge/CSS-blue)\
+
+JavaScript ![Static Badge](https://img.shields.io/badge/JS--JavaScript-yellow)\
+
+
+
+
+
 
 
 <!--
