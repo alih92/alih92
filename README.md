@@ -1,4 +1,11 @@
-## Hi there 👋
+  # Hi, i'm Ali! Welcome to my page! 👋 🍜
+
+                              I'm a new developer based in London, United Kingdom 
+                              
+        
+---
+        hello
+
 
 <!--
 **alih92/alih92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
