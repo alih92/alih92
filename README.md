@@ -1,6 +1,9 @@
-  # Hi, i'm Ali! Welcome to my page! 👋 🍜
+  <h1 align="center"> Hi, i'm Ali! Welcome to my page! 👋 </h1>
 
-                              I'm a new developer based in London, United Kingdom 
+                     I'm a new developer based in London, United Kingdom. I will never say no to a bowl of Pho 🍜
+                       
+                I have a scientifc background and looking to transition into a more data driven role. My goal is to use data to help anyone and everyone 
+                                  
                               
         
 ---
