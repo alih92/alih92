@@ -1,18 +1,19 @@
-  <h1 align="center"> Hi, i'm Ali! Welcome to my page! 👋 </h1>
+  <h1 align="center"> Hi, I'm Ali! Welcome to my page! 👋 </h1>
 
                      I'm a new developer based in London, United Kingdom. I will never say no to a bowl of Pho 🍜
                        
                 I have a scientifc background and looking to transition into a more data driven role. My goal is to use data 
-                             to help anyone and everyone to make better data driven decisions.       
+                                   to help anyone and everyone to make their lives easier.      
 ---
 ## My languages
 I have experience in a number of programming languages:\
-HTML ![Static Badge](https://img.shields.io/badge/HTML-orange)\
-CSS ![Static Badge](https://img.shields.io/badge/CSS-blue)\
+HTML ![Static Badge](https://img.shields.io/badge/HTML-orange)  
+CSS ![Static Badge](https://img.shields.io/badge/CSS-blue)  
+JavaScript ![Static Badge](https://img.shields.io/badge/JS--JavaScript-yellow)  
+Python ![Static Badge](https://img.shields.io/badge/Python-blue)
 
-JavaScript ![Static Badge](https://img.shields.io/badge/JS--JavaScript-yellow)\
-
-
+---
+📫 How to reach me: ...  
 
 
 
