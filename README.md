@@ -14,8 +14,13 @@ Python ![Static Badge](https://img.shields.io/badge/Python-blue)
 
 ---
 📫 How to reach me: ...  
+Email: [Reach me via email here](alih_09@hotmail.com)  
+LinkedIn: [Connect on linkedin](www.linkedin.com/in/ali-halavurt-bsc-a8225992)  
+GitHub: [Checkout my GitHub](https://gist.github.com/alih92)
 
+---
 
+# More to come! Watch this space! 
 
 
 
